@@ -63,6 +63,8 @@ VALUES
 (5, 5, '2022-1-2', 2, 3),
 (6, 8, '2022-1-3', 5, 1);
 
+ALTER TABLE Bookings CHANGE BookingID BookingID INT NOT NULL AUTO_INCREMENT;
+
 Insert into delivery_status (DeliveryID, DeliveryStatus)
 values
 (1, 'complete'),
