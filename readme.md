@@ -2,7 +2,8 @@ The capstone project for Meta's Data Engineering Certificate.
 
 #### Database Files
 LittleLemonBD.sql - the code to constuct the database <br>
-populate_database.sql - adds starter data to tables
+populate_database.sql - adds starter data to tables <br>
+LittleLemonDM.png - the EER diagram
 
 #### Exercise files
 task1.sql - views and joins <br>
